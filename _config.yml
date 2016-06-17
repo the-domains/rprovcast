@@ -1,0 +1,14 @@
+layout_spectrum: 0.4515112217050046
+typography_spectrum: 0.8917980573605746
+color:
+  brandStrength: 0.0017846482805907726
+  lightness: 0.1587987442035228
+  saturation: 0.13236962631344795
+  rhythmicContrast: 0.39958925801329315
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: RProvCast
